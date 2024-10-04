@@ -4,4 +4,5 @@ export class Movie {
     tittle: string;
     description: string;
     ageRating: string;
+    poster: string;
 }
