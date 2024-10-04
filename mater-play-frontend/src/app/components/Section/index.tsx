@@ -31,7 +31,7 @@ function Section({
           {title}
         </Typography>
         <Stack direction="row" gap={0.5} sx={{
-          overflowX: "hidden",
+          overflowX: "scroll",
           whiteSpace: 'nowrap',
           paddingY: '1rem'
         }}>
